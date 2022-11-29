@@ -26,7 +26,7 @@ def itshousing():
 
 
 print(itshousing()) 
-allResults = []
-allResults = allResults.append(itshousing())
-print("test")
-print(allResults)
+# allResults = []
+# allResults = allResults.append(itshousing())
+# print("test")
+# print(allResults)
